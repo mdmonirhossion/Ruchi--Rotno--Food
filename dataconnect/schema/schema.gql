@@ -1,0 +1,46 @@
+type FoodItem @table {
+  name: String!
+  unit: String!
+  pricePerUnit: Float!
+  currentQuantity: Int!
+  description: String
+  minimumStockLevel: Int
+}
+
+type Supplier @table {
+  name: String!
+  contactPerson: String!
+  contactEmail: String!
+  phoneNumber: String
+  address: String
+}
+
+type Recipe @table {
+  name: String!
+  instructions: String!
+  description: String
+  prepTime: Int
+  cookTime: Int
+}
+
+type Order @table {
+  orderDate: Timestamp!
+  status: String!
+  customerName: String
+  customerContact: String
+  specialInstructions: String
+}
+
+type RecipeIngredient @table(key: ["recipe", "foodItem"]) {
+  recipe: Recipe!
+  foodItem: FoodItem!
+  quantity: Float!
+  unit: String!
+}
+
+type OrderItem @table(key: ["order", "foodItem"]) {
+  order: Order!
+  foodItem: FoodItem!
+  quantity: Int!
+  priceAtOrder: Float!
+}
