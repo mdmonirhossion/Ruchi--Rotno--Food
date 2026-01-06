@@ -1,0 +1,110 @@
+[
+  {
+    "foodId": 1,
+    "foodName": "Cheeseburger",
+    "sellerName": "Food R Us Local",
+    "sellerEmail": "contact@foodruslocal.com",
+    "price": 89.99,
+    "rating": 5.7,
+    "availableQuantity": 25,
+    "description": "A juicy beef patty seared on a grill and topped with a slice of perfectly melted cheese. Served on a toasted bun with crunchy pickles, onions, and classic condiments.",
+    "pictureURL": "https://i.ibb.co.com/MxFnmxQF/Double-Cheeseburger-square-FS-42.webp",
+    "subCategory": "Burgers"
+  },
+  {
+    "foodId": 3,
+    "foodName": "Chicken Nuggets",
+    "sellerName": "Poultry Palace",
+    "sellerEmail": "info@poultrypalace.com",
+    "price": 35.50,
+    "rating": 4.5,
+    "availableQuantity": 40,
+    "description": "Bite-sized pieces of tender chicken breast coated in a seasoned, crunchy batter. Served with your choice of dipping sauces like BBQ or Honey Mustard.",
+    "pictureURL": "https://images.unsplash.com/photo-1562967914-608f82629710?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Chicken"
+  },
+  {
+    "foodId": 4,
+    "foodName": "Pepperoni Pizza",
+    "sellerName": "Classic Pizzeria",
+    "sellerEmail": "support@classicpizza.com",
+    "price": 55.00,
+    "rating": 4.8,
+    "availableQuantity": 30,
+    "description": "Hand-stretched dough topped with zesty tomato sauce, bubbly mozzarella cheese, and spicy pepperoni slices. Baked in a stone oven for a smoky crust.",
+    "pictureURL": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Pizza"
+  },
+  {
+    "foodId": 9,
+    "foodName": "Chicken Sandwich",
+    "sellerName": "The Bun Shop",
+    "sellerEmail": "chef@thebunshop.com",
+    "price": 89.99,
+    "rating": 4.8,
+    "availableQuantity": 25,
+    "description": "A breaded and fried chicken fillet served on a buttered brioche bun. Topped with creamy mayo and crisp lettuce for a classic flavor profile.",
+    "pictureURL": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Sandwiches"
+  },
+  {
+    "foodId": 10,
+    "foodName": "Burrito",
+    "sellerName": "Wrap It Up",
+    "sellerEmail": "shop@wrapitup.com",
+    "price": 29.99,
+    "rating": 4.6,
+    "availableQuantity": 60,
+    "description": "A massive flour tortilla stuffed with grilled meat, black beans, cilantro lime rice, and salsa. Tightly rolled for a portable and filling meal.",
+    "pictureURL": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Mexican"
+  },
+  {
+    "foodId": 11,
+    "foodName": "Mozzarella Sticks",
+    "sellerName": "Cheesy Delights",
+    "sellerEmail": "care@cheesydelights.com",
+    "price": 14.50,
+    "rating": 4.5,
+    "availableQuantity": 150,
+    "description": "Battered sticks of creamy mozzarella cheese fried until gooey. Served with a side of warm, zesty marinara sauce for dipping.",
+    "pictureURL": "https://i.ibb.co.com/VpL7t1Nx/Mozzarella-Sticks.jpg",
+    "subCategory": "Appetizers"
+  },
+  {
+    "foodId": 17,
+    "foodName": "Soft Drink",
+    "sellerName": "The Soda Fountain",
+    "sellerEmail": "fizz@sodafountain.com",
+    "price": 18.00,
+    "rating": 4.5,
+    "availableQuantity": 200,
+    "description": "A refreshing, carbonated beverage served over crushed ice. Available in a variety of classic flavors to complement any meal.",
+    "pictureURL": "https://i.ibb.co.com/0p6WLJKH/Soft-Drink.webp",
+    "subCategory": "Beverages"
+  },
+  {
+    "foodId": 18,
+    "foodName": "Apple Pie",
+    "sellerName": "Sweet Crust",
+    "sellerEmail": "baking@sweetcrust.com",
+    "price": 32.00,
+    "rating": 4.8,
+    "availableQuantity": 50,
+    "description": "A warm, flaky pastry shell filled with cinnamon-infused apple chunks. Deep-fried until the crust is bubbly and golden-brown.",
+    "pictureURL": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Desserts"
+  },
+  {
+    "foodId": 19,
+    "foodName": "Ice Cream Cone",
+    "sellerName": "Soft Serve Central",
+    "sellerEmail": "cool@softserve.com",
+    "price": 9.99,
+    "rating": 4.3,
+    "availableQuantity": 300,
+    "description": "Velvety smooth vanilla soft-serve ice cream swirled into a crunchy wafer cone. A lightweight and cooling treat for any time of day.",
+    "pictureURL": "https://images.unsplash.com/photo-1501443762994-82bd5dace89a?q=80&w=1000&auto=format&fit=crop",
+    "subCategory": "Desserts"
+  } 
+]
